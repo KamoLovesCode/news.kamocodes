@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1716915000000",
+    "title": "South Africa's ANC Sees Support Drop Sharply in Early Election Results",
+    "summary": "The African National Congress is on track to lose its parliamentary majority for the first time since the end of apartheid, early election results show. With about a third of votes counted, the ANC has secured around 43% of the vote.",
+    "fullContent": [
+      { "type": "paragraph", "content": "JOHANNESBURG – South Africa's ruling African National Congress (ANC) has seen a dramatic drop in support in the early stages of the national election vote count, signaling the biggest political shift in the country's 30-year history of democracy." },
+      { "type": "paragraph", "content": "With results from 33% of polling stations declared, the ANC's share of the vote stood at 43.4%, a significant decline from the 57.5% it secured in the previous election in 2019. The main opposition party, the Democratic Alliance (DA), held steady at around 24.8%." },
+      { "type": "subheading", "content": "New Political Forces Emerge" },
+      { "type": "paragraph", "content": "A new party led by former President Jacob Zuma, uMkhonto we Sizwe (MK), has emerged as a major force, particularly in his home province of KwaZulu-Natal, capturing 10% of the national vote so far. The radical Economic Freedom Fighters (EFF) were on about 9%." },
+      { "type": "quote", "content": "If the final results confirm the loss of its majority, the ANC will be forced to enter into a coalition with one or more opposition parties to govern the country." },
+      { "type": "paragraph", "content": "This scenario could lead to unprecedented political instability and a complex period of negotiation as parties vie for power and influence in a new political landscape." }
+    ],
+    "category": "World News",
+    "imageUrl": "https://source.unsplash.com/800x600/?south_africa_election",
+    "sourceUrl": "https://www.reuters.com/world/africa/south-africas-anc-set-lose-majority-first-time-after-30-years-power-2024-05-30/",
+    "sourceName": "Reuters"
+  },
+  {
+    "id": "1716914000000",
+    "title": "Tech Giants Invest in African AI Startups",
+    "summary": "Major technology corporations are pouring investment into African artificial intelligence startups, recognizing the continent's potential for innovation and growth in the tech sector. The focus is on solutions for finance, healthcare, and agriculture.",
+    "fullContent": [
+      { "type": "paragraph", "content": "LAGOS, Nigeria – A new wave of investment from global technology giants is flowing into Africa's burgeoning artificial intelligence scene. Companies are increasingly backing startups that are developing AI-driven solutions to local problems." },
+      { "type": "subheading", "content": "Innovation Across Sectors" },
+      { "type": "paragraph", "content": "From fintech platforms that use AI for credit scoring to healthtech apps that diagnose diseases from images, the innovation is widespread. Agriculture is another key area, with AI being used to optimize crop yields and manage resources more efficiently." },
+      { "type": "paragraph", "content": "This influx of capital is expected to accelerate the development of the tech ecosystem across the continent, creating jobs and fostering a new generation of entrepreneurs. However, challenges such as data privacy and infrastructure still need to be addressed to fully unlock Africa's AI potential." }
+    ],
+    "category": "Technology",
+    "imageUrl": "https://source.unsplash.com/800x600/?ai_startup_africa",
+    "sourceUrl": "https://techcrunch.com/2024/05/29/african-startups-are-attracting-global-investors/",
+    "sourceName": "TechCrunch"
+  },
+  {
+    "id": "1716913000000",
+    "title": "Bafana Bafana Prepare for World Cup Qualifiers",
+    "summary": "South Africa's national football team, Bafana Bafana, is in intensive training for their upcoming 2026 FIFA World Cup qualifiers against Nigeria and Zimbabwe. Coach Hugo Broos has expressed confidence in his squad.",
+    "fullContent": [
+      { "type": "paragraph", "content": "SOWETO – Bafana Bafana are gearing up for two crucial 2026 FIFA World Cup qualifiers in June. The team will face Nigeria away before hosting Zimbabwe in what is a critical window for their qualification hopes." },
+      { "type": "paragraph", "content": "Coach Hugo Broos has named a strong squad, blending experienced players with promising young talent. Speaking at a press conference, Broos emphasized the importance of getting positive results, particularly against group rivals Nigeria." },
+      { "type": "quote", "content": "These two games are vital for our campaign. We respect our opponents, but we are not afraid. The team is motivated, and we believe we have the quality to secure the points we need." },
+      { "type": "paragraph", "content": "The squad will assemble for a training camp next week before departing for Nigeria. Fans are optimistic that the team can build on their recent strong performances and take a significant step towards qualifying for the world's biggest football tournament." }
+    ],
+    "category": "Sports",
+    "imageUrl": "https://source.unsplash.com/800x600/?soccer_south_africa",
+    "sourceUrl": "https://www.safa.net/2024/05/30/bafana-bafana-squad-announced-for-world-cup-qualifiers/",
+    "sourceName": "SAFA"
+  }
+]
